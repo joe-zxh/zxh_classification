@@ -1,0 +1,27 @@
+.DS_Store
+.svn
+
+*.pth
+
+# idea
+.idea/
+
+# python
+__pycache__/
+
+# zxh ml
+data/
+save_models/
+saved_dir/
+
+
+output0/
+output7/
+
+saved_models/
+
+用户真实图片/
+
+pretrained/
+
+results/
